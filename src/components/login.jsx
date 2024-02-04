@@ -15,7 +15,7 @@ const home = () => {
         <button type="submit">Entrar</button>
 
 
-        <p>Ainda não tem uma conta? <Link to='/signup'>Cadastre-se</Link></p>
+        <p>Ainda não tem uma conta? <Link to='/signin'>Cadastre-se</Link></p>
 
 
       </section>

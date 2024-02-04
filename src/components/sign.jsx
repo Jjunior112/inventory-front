@@ -21,7 +21,7 @@ const sign = () => {
                 <button type="submit">Cadastrar</button>
 
 
-                <p>Já tem uma conta? <Link to='/login'>Login</Link></p>
+                <p>Já tem uma conta? <Link to='/'>Login</Link></p>
 
 
             </section>
